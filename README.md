@@ -1,1 +1,1 @@
-# salt
+scripts for saltstack
